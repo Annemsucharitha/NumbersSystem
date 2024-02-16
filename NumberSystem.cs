@@ -29,5 +29,15 @@ namespace feb16ConApp
                 }
             }
         }
+        public static void AllNum()
+        {
+            foreach (int i in numbers)
+            {
+               
+               
+                    Console.WriteLine(i + " ");
+                
+            }
+        }
     }
 }
