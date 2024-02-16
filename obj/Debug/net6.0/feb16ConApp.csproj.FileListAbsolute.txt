@@ -1,0 +1,15 @@
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\bin\Debug\net6.0\feb16ConApp.exe
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\bin\Debug\net6.0\feb16ConApp.deps.json
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\bin\Debug\net6.0\feb16ConApp.runtimeconfig.json
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\bin\Debug\net6.0\feb16ConApp.dll
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\bin\Debug\net6.0\feb16ConApp.pdb
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.AssemblyInfoInputs.cache
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.AssemblyInfo.cs
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.csproj.CoreCompileInputs.cache
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.sourcelink.json
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.dll
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\refint\feb16ConApp.dll
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.pdb
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\feb16ConApp.genruntimeconfig.cache
+C:\Users\Annem sucharitha\MC\feb16ConApp\feb16ConApp\obj\Debug\net6.0\ref\feb16ConApp.dll
